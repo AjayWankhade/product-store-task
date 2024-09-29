@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Product Store** application is a fully functional e-commerce platform that allows users to browse and search products by category. Built using **React** and **Redux**, this project leverages the [DummyJSON API](https://dummyjson.com/docs) for data fetching, ensuring efficient state management and a seamless user experience.
+The **Product Store** application is a fully functional e-commerce platform that allows users to browse and search products by category. Built using **React** and **Redux**, this project leverages the [DummyJSON API](https://dummyjson.com/docs) for data fetching, ensuring efficient state management and a seamless user experience. You can access the live application [here](https://product-store-task.vercel.app/?category=&search=).
 
 ## Key Features
 
@@ -21,3 +21,7 @@ The **Product Store** application is a fully functional e-commerce platform that
 
 - The application currently fetches products in batches but does not implement UI pagination, which may limit user navigation through large product sets.
 - Error handling for API requests is basic and can be improved for better user feedback.
+
+## Live Demo
+
+You can explore the live application at the following link: [Product Store Application](https://product-store-task.vercel.app/?category=&search=).
